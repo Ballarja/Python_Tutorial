@@ -1,0 +1,1 @@
+my_list = ["string", "ball", 12, 9.8, True]
